@@ -119,6 +119,6 @@ hr {
 
 @media(prefers-reduced-motion: reduced){
 *{
-transition:none;
+    transition: none;
 }
 }
