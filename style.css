@@ -116,3 +116,9 @@ hr {
         width: 20.55rem;
     }
 }
+
+@media(prefers-reduced-motion: reduced){
+*{
+transition:none;
+}
+}
